@@ -2,7 +2,17 @@ This repo is based on https://gist.github.com/jamct/2e6c03f60319423bc4bc6c23fc0a
 
 # This is a Title
 
-This, is, an, enumeration
+-This
+	-is
+		-an
+			-enumeration
+			
+#Feature List
+- AI
+- AI
+- AI
+- Now give me money
+
 
 thisisa.link
 
