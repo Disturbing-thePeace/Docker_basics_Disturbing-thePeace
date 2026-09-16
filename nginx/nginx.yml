@@ -1,0 +1,10 @@
+services:
+  nginx:
+    image: nginx:latest
+    restart: unless-stopped
+    ports:
+      - 8080:80
+    volumes:
+      - nginx_data:/usr/share/nginx/html
+volumes:
+  nginx_data:
